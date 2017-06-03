@@ -5,8 +5,10 @@ int c=a--;
 int d=a>>2;
 int e=a&b;
 */
+
+//class declaration 
 public class Assignment2 {
-	
+		//Main method
 		public static void main (String args[]){
 		
 		int a=20, b=10, c, d, e;
